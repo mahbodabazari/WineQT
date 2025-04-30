@@ -1,0 +1,62 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+env/
+venv/
+.venv/
+ENV/
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Model outputs and training artifacts
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+*.npy
+*.npz
+*.pt
+*.onnx
+*.ckpt
+
+# Datasets
+*.csv
+*.tsv
+*.zip
+*.tar
+*.gz
+
+# Logs and results
+logs/
+*.log
+*.out
+*.err
+
+# GridSearchCV results, cache files
+*.cache
+cache/
+gridsearch_results/
+results_df_*.csv
+
+# Ignore outputs and figures
+outputs/
+figures/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# MacOS and Windows
+.DS_Store
+Thumbs.db
