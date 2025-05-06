@@ -27,10 +27,10 @@
   - Logistic Regression
 
 - **معیارهای ارزیابی عملکرد**:
-  - دقت (Accuracy)
-  - دقت مثبت (Precision)
-  - یادآوری (Recall)
-  - امتیاز F1 (F1 Score)
+  -  (Accuracy)
+  -  (Precision)
+  -  (Recall)
+  -  F1 (F1 Score)
 
 ---
 
